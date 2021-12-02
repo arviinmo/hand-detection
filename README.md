@@ -24,5 +24,5 @@ http://docs.opencv.org/modules/imgproc/doc/miscellaneous_transformations.html
 For any question related to the code please contact via email:
 Arvinmostafaeii@gmail.com
 
-Sasha Gazman
+Arvin Mostafaei
  
